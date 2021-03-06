@@ -1,5 +1,14 @@
 ### Hi there, I'm Michael 👋
 
+### Current Projects
+[K6 Testing Notes/Experiments/Tests](https://github.com/mdcoxe/dev-notebook/blob/main/K6-Testing.md) 
+  - On-going work with Greenstand, providing performance metrics via K6 testing
+
+[Scrumptious Rebuild](https://github.com/mdcoxe/recipe-share-app)
+  - Taking the final project from my time at General Assembly and revamping the entire thing.  Rebuilding the backend with the knowledge I recently expanded on building the DevCamper API and swapping from react native to react.
+  
+[DevCamper API](https://github.com/mdcoxe/Bootcamp-Directory-App/blob/main/DevCamper/Dev_Camper_API/README.md)
+  - Recently completed course through Udemy with Brad Travesry, awesome course, learned a ton...now working to put this to use on my own project.
 
 #### Languages I've learned
 
@@ -15,8 +24,6 @@
 
 
 
-### Current Projects
-- [K6 Testing Notes/Experiments/Tests](https://github.com/mdcoxe/dev-notebook/blob/main/K6-Testing.md)
 
 <!--
 **mdcoxe/mdcoxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
