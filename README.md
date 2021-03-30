@@ -1,11 +1,13 @@
 ### Hi there, I'm Michael 👋
 
+
 ### Current Projects
 [K6 Testing Notes/Experiments/Tests](https://github.com/mdcoxe/dev-notebook/blob/main/K6-Testing.md) 
   - On-going work with Greenstand, providing performance metrics via K6 testing
 
-[Scrumptious Rebuild](https://github.com/mdcoxe/recipe-share-app)
-  - Taking the final project from my time at General Assembly and revamping the entire thing.  Rebuilding the backend with the knowledge I recently expanded on building the DevCamper API and swapping from react native to react.
+[Shopify - React/Chakra-UI/Shopify API](https://github.com/mdcoxe/shopify-hobby-shop)
+  - Recently completed shopify tutorial on using the shopify API.  Working on integrating the subjects I learned into a new shopify site to reinforce the concepts.  
+  - This was first time using Chakra-UI, it was very smooth to work with and easy to understand.
   
 [DevCamper API](https://github.com/mdcoxe/Bootcamp-Directory-App/blob/main/DevCamper/Dev_Camper_API/README.md)
   - Recently completed course through Udemy with Brad Travesry, awesome course, learned a ton...now working to put this to use on my own project.
