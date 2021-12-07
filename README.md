@@ -1,4 +1,4 @@
-### Hi there, I'm Michael 👋
+<!-- ### Hi there, I'm Michael 👋
 
 
 ### Current Projects
@@ -10,7 +10,7 @@
   - This was first time using Chakra-UI, it was very smooth to work with and easy to understand.
   
 [DevCamper API](https://github.com/mdcoxe/Bootcamp-Directory-App/blob/main/DevCamper/Dev_Camper_API/README.md)
-  - Recently completed course through Udemy with Brad Travesry, awesome course, learned a ton...now working to put this to use on my own project.
+  - Recently completed course through Udemy with Brad Travesry, awesome course, learned a ton...now working to put this to use on my own project. -->
 
 #### Languages I've learned
 
